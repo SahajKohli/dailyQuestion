@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-question-template-js","path":"/test","result":{"data":{"file":{"childMarkdownRemark":{"html":"<h2>Hello</h2>","frontmatter":{"title":"Test page"}}}},"pageContext":{"relativePath":"test.md"}}}
+{"componentChunkName":"component---src-templates-answer-template-js","path":"/test","result":{"data":{"file":{"childMarkdownRemark":{"html":"<h2>Hello</h2>","frontmatter":{"title":"Test page"}}}},"pageContext":{"relativePath":"questions/test.md"}}}
