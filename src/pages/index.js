@@ -23,7 +23,7 @@ export default IndexPage
 
  export const query =  graphql`
 {  
-    file(relativePath: {eq: "questions/reverseLinkedList.md"}){
+    file(relativePath: {eq: "questions/validateBST.md"}){
     relativePath
    childMarkdownRemark{
     html
