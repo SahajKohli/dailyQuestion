@@ -23,7 +23,7 @@ export default IndexPage
 
  export const query =  graphql`
 {  
-    file(relativePath: {eq: "questions/flattenBinaryTree.md"}){
+    file(relativePath: {eq: "questions/singleCycleCheck.md"}){
     relativePath
    childMarkdownRemark{
     html
