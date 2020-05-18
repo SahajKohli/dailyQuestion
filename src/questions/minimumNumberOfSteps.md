@@ -57,7 +57,7 @@ Here's the method signature:
     }
 
 <div>
-If you think you have the answer, try to code it out and come back when you think you've figured it out.anagram
+If you think you have the answer, try to code it out and come back when you think you've figured it out.
 
 You got this!
 
