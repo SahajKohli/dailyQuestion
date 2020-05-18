@@ -23,7 +23,7 @@ export default IndexPage
 
  export const query =  graphql`
 {  
-    file(relativePath: {eq: "questions/singleCycleCheck.md"}){
+    file(relativePath: {eq: "questions/minimumNumberOfSteps.md"}){
     relativePath
    childMarkdownRemark{
     html
