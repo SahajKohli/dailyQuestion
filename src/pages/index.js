@@ -23,7 +23,7 @@ export default IndexPage
 
  export const query =  graphql`
 {  
-    file(relativePath: {eq: "questions/shiftLinkedList.md"}){
+    file(relativePath: {eq: "questions/productSum.md"}){
     relativePath
    childMarkdownRemark{
     html
