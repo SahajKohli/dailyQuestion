@@ -1,5 +1,5 @@
 ---
-title: "Reverse a Linked List"
+title: "Single Cycle Check"
 date: "May 16th, 2020"
 answer: "singleCycleCheckAnswer"
 ---
